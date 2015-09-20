@@ -1,0 +1,43 @@
+{
+    "room":                     "Electronic Family Community",
+	"author":                   "Matias51",
+    "icon":                     null,
+    "css":                      "",
+    "rules": {
+        "allowAutorespond":     true,
+        "allowAutowoot":        true,
+        "allowAutojoin":        false,
+        "allowAutograb":        true,
+        "allowSmartVote":       true,
+        "allowEmotes":          true,
+        "allowShowingMehs":     true,
+        "forceSmartVote":       false
+    },
+    "ccc": {
+        "admin":                "#1eb6e7",
+        "ambassador":           "##1bbc5f",
+        "host":                 "#923892",
+        "cohost":               "#87449c",
+        "manager":              "#7854a9",
+        "bouncer":              "#626cbc",
+        "rdj":                  "#547bc9",
+        "subscriber":           "#A1A6B3",
+        "friend":               "#B35D88",
+        "user":                 "#8B92A3"
+    },
+    "images": {
+        "background":           "https://www.dropbox.com/s/cv54h5b1khg9ddh/pene.png?dl=0",
+        "playback":             "https://rlcnetwork.com/code/BG/playback.png",
+        "admin":                null,
+        "ambassador":           null,
+        "host":                 null,
+        "cohost":               null,
+        "manager":              null,
+        "bouncer":              null,
+        "rdj":                  null,
+        "subscriber":           null
+	},
+    "emotes": {
+    	"emote_name": null
+	}
+}
